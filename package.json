@@ -1,0 +1,14 @@
+{
+  "name": "ai-generator-web",
+  "version": "1.0.0",
+  "description": "this is a ai generator website with responsive",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./public/css/style.css -o ./public/css/tailwind.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  }
+}
